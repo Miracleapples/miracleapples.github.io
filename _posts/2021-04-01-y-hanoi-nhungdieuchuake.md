@@ -3,7 +3,7 @@ layout: post
 title: Y HÀ NỘI
 subtitle: Những điều chưa kể
 gh-repo: 
-cover-img: https://i1.wp.com/themiracleapples.com/wp-content/uploads/2021/04/study_cover.jpg
+cover-img: /assets/img/giangduong.jpg
 thumbnail-img: https://i1.wp.com/themiracleapples.com/wp-content/uploads/2021/04/study_cover.jpg
 tags: [bvmd]
 comments: true
