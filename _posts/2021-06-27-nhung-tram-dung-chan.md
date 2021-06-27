@@ -3,6 +3,7 @@ layout: post
 title: Những trạm dừng chân
 subtitle: 
 gh-repo: 
+cover-img: https://i1.wp.com/themiracleapples.com/wp-content/uploads/2021/04/study_cover.jpg
 thumbnail-img: https://i1.wp.com/themiracleapples.com/wp-content/uploads/2021/04/study_cover.jpg
 tags: [bvmd]
 comments: true
