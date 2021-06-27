@@ -30,9 +30,12 @@ Lớp trưởng tiến đến gần
 
 Thậm chí lớp trưởng nào vóc dáng oai phong còn được chào hỏi nhiệt tình hơn kể cả giáp mặt ngoài đường, ngoài chợ
 
+![Hinh anh](https://i.imgur.com/5rUitKK.jpg)
+
 -Em chào anh Hoàng (cái Béo phòng tôi lớp trưởng lớp A, sừng sững 6 năm không ai giành mất chức sắc của lão)
 
 Lên đại học, sinh viên thường có khóa học quân sự vào năm nhất -- gọi mỹ miều là "giáo dục quốc phòng". Khác với đại đa số sinh viên trường ngoài được lên Hòa Lạc hoặc Xuân Mai học tập trung, trường Y Hà Nội chúng tôi bày binh bố trận ở ngay tại chỗ. Tính ra thời gian đó giống như chạy đà cho những kẻ mộng mơ, tâm hồn còn treo ngược ở quê hương, bởi chúng tôi gần như không cần động não khi học môn đó. Lý thuyết mang tính chất học thuộc và thi tự luận với đề cương đâu đó gần hai chục câu. Với những đứa còn cả bụng chữ vừa đỗ đại học, học thuộc và thi viết không có gì quá thử thách. Môn giáo dục quốc phòng có hai phần thi: lý thuyết và thực hành, nhưng khi tính chung chỉ xếp hạng: đạt -- không đạt. Bởi vậy dù bạn có điểm 9 hay điểm 5 cũng không khác gì nhau cả. Kể đến đây tôi lại nhớ "thói nói xạo" của mấy đứa chăm học
+
 
 -Tớ học đủ qua thôi, môn này không tính vô điểm tổng kết
 
@@ -64,7 +67,6 @@ Thi thực tập bắn súng, nếu ai trượt, sẽ nộp tiền và thi lại
 
 -Các em trật tự để bạn thi, làm gì mà ồn ào như cái chợ vậy
 
-[Chu thich gi do](https://imgur.com/5rUitKK)
 
 Đi ra chợ nếu bạn chỉ mua một món đồ từ sạp hàng, giá chắc chắn niêm yết. Nhưng nếu bạn mua nốt mớ còn lại, bạn sẽ được khuyến mãi thêm ớt, hành, tỏi hoặc thậm chí là bán siêu rẻ, đại hạ giá. Thi lại nó cũng có dáng dấp như vậy, không phải ba phát nữa mà đôi khi lên tới năm, sáu phát. Thầy sẽ nương tay thương tình và khuyến mãi một số phát cuối nếu tay bạn "thối" bắn mãi không đạt đích. Trong số người trượt có bạn Thanh Long tạch phần bắn súng -- Long là ngôi sao nổi tiếng học giỏi từ cấp ba và đến tận giờ (bác sĩ chuyên ngành ung bướu), dù tôi và Hoàng vừa đủ qua nhưng vẫn thật thà thấy xót xa
 
