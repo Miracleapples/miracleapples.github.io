@@ -3,7 +3,7 @@ layout: post
 title: Y HÀ NỘI
 subtitle: Những điều chưa kể
 gh-repo: 
-cover-img: /assets/img/giangduong.jpg
+cover-img: https://i.imgur.com/KvbfK6W.jpg
 thumbnail-img: /assets/img/giangduong.jpg
 tags: [bvmd]
 comments: true
