@@ -4,7 +4,7 @@ title: Y HÀ NỘI
 subtitle: Những điều chưa kể
 gh-repo: 
 cover-img: /assets/img/giangduong.jpg
-thumbnail-img: https://i1.wp.com/themiracleapples.com/wp-content/uploads/2021/04/study_cover.jpg
+thumbnail-img: /assets/img/giangduong.jpg
 tags: [bvmd]
 comments: true
 ---
