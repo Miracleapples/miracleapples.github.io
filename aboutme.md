@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GIỚI THIỆU
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 Tôi từng viết rất nhiều bài, có cả ngẫu hứng vài dòng qua loa nhưng cũng có một số bài dày công chỉnh sửa câu từ, đọc đi đọc lại cẩn thận – cảm giác thật thoả mãn khi áng văn chương bay bổng thể hiện nguyên vẹn cảm xúc. Blog này ra đời như cuốn nhật ký hành trình lớn khôn, mang chút gạn đục khơi trong và lan toả sự mến thương, tích cực
 
