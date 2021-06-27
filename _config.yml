@@ -15,10 +15,10 @@ author: Thái Doãn Minh
 
 navbar-links:
   Giới thiệu: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Liên hệ
+    - Facebook: "https://beautifuljekyll.com"
+    - Nơi làm việc: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
