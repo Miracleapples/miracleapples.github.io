@@ -82,3 +82,5 @@ Chúng tôi từng tốp người lên lớp học cùng nhau, 150 con người 
 
 Cuốn giải phẫu bìa đỏ - đen, cuốn giải phẫu của thầy Trịnh Văn Minh và thêm cuốn Atlas hình minh họa luôn là ám ảnh khi mà mọi chi tiết thầy có thể hỏi thi mà sinh viên chẳng nghĩ mình đã từng lưu trong bộ nhớ.
 
+![](https://www.youtube.com/watch?v=ZPUeaBTa68w#0)
+
