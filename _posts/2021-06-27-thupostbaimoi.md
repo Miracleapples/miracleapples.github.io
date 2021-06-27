@@ -3,7 +3,7 @@ layout: post
 title: Tổ 8, tôi đến đây
 subtitle: 
 gh-repo: 
-cover-img: https://i1.wp.com/themiracleapples.com/wp-content/uploads/2021/04/study_cover.jpg
+cover-img: https://i.imgur.com/5rUitKK.jpg
 thumbnail-img: https://i1.wp.com/themiracleapples.com/wp-content/uploads/2021/04/study_cover.jpg
 tags: [yhn]
 comments: true
@@ -64,6 +64,8 @@ Thi thực tập bắn súng, nếu ai trượt, sẽ nộp tiền và thi lại
 
 -Các em trật tự để bạn thi, làm gì mà ồn ào như cái chợ vậy
 
+[Chu thich gi do](https://imgur.com/5rUitKK)
+
 Đi ra chợ nếu bạn chỉ mua một món đồ từ sạp hàng, giá chắc chắn niêm yết. Nhưng nếu bạn mua nốt mớ còn lại, bạn sẽ được khuyến mãi thêm ớt, hành, tỏi hoặc thậm chí là bán siêu rẻ, đại hạ giá. Thi lại nó cũng có dáng dấp như vậy, không phải ba phát nữa mà đôi khi lên tới năm, sáu phát. Thầy sẽ nương tay thương tình và khuyến mãi một số phát cuối nếu tay bạn "thối" bắn mãi không đạt đích. Trong số người trượt có bạn Thanh Long tạch phần bắn súng -- Long là ngôi sao nổi tiếng học giỏi từ cấp ba và đến tận giờ (bác sĩ chuyên ngành ung bướu), dù tôi và Hoàng vừa đủ qua nhưng vẫn thật thà thấy xót xa
 
 -Tiếc cho Thanh Long nhỉ, kỳ này mất học bổng
@@ -77,3 +79,4 @@ Chúng tôi từng tốp người lên lớp học cùng nhau, 150 con người 
 -Tụi mày quên hết huy hoàng quá khứ đi, về với mặt đất, cặm cụi, nhặt nhạnh từng con chữ để thực hiện sứ mệnh mà toàn dân nêu cao với câu nói mĩ miều "học Y để cứu người"
 
 Cuốn giải phẫu bìa đỏ - đen, cuốn giải phẫu của thầy Trịnh Văn Minh và thêm cuốn Atlas hình minh họa luôn là ám ảnh khi mà mọi chi tiết thầy có thể hỏi thi mà sinh viên chẳng nghĩ mình đã từng lưu trong bộ nhớ.
+
