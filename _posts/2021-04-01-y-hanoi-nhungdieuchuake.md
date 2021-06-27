@@ -29,6 +29,7 @@ Muốn có tấm vé vào trường Y -- đặc biệt hệ đào tạo bác s�
 Đấy, Thiết nói và lịch sử hàng năm cũng ghi nhận, tóm lại nếu đã đậu vào Y bạn nên tự động viên bản thân rằng mình vừa vượt vũ môn thành công, hít một hơi thật sâu, bớt mơ mộng đi và chuẩn bị cho sáu năm tới -- hay xa nữa là chín năm học cho "sấp mặt" -- theo lời hầu hết dân Y khoa  than vãn
 
 ![Tra](https://i.imgur.com/KvbfK6W.jpg)
+
 Năm 2012, đề thi đại học được mạng xã hội và các nhà báo đánh giá 'sát với năng lực học sinh và chương trình sách giáo khoa', tôi về nhà mở internet ra thấy đâu đó một số thanh niên rú lên đầy cay cú
 
 -Có mà sát với tầm kiến thức thầy cô ấy, lắm chuyện, báo chí không đi thi mà phán như thánh
