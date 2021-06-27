@@ -15,7 +15,7 @@ author: Thái Doãn Minh
 
 navbar-links:
   Giới thiệu: "aboutme"
-  Liên hệ
+  Liên hệ:
     - Facebook: "https://beautifuljekyll.com"
     - Nơi làm việc: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
